@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-![Image of a Yaktocat] (https://octodex.github.com/images/yaktocat.png)
+_ inludes/02-image.md ![Image of a Yaktocat] (https://octodex.github.com/images/yaktocat.png)
 
 <br>
 
