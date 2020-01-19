@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+  The Village Bakery 
+  Java Coffee House 
+  Kilimanjaro restuarant Nairobi 
