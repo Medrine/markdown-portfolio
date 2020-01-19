@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% includes 02-image.md %} ![Image of a Yaktocat] (https://octodex.github.com/images/yaktocat.png)
+{% include 02-image.md %} ![Image of a Yaktocat] (https://octodex.github.com/images/yaktocat.png)
 
 <br>
 
