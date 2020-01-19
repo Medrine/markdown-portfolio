@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*New to programming, excited to learn* 
+_Quick learner_ 
+
+**A storyteller**
+_Culture enthusiast_ 
+
+_Has a **blog** too_ 
